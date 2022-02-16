@@ -1,5 +1,5 @@
 {
-    "name": "nativescript-intl",
+    "name": "@alexbald/nativescript-intl",
     "version": "4.0.1",
     "description": "Provides API for using Native date, time and number formatting with an API similar to Intl.js",
     "nativescript": {
@@ -12,6 +12,6 @@
         "NativeScript", "localization", "globalization", "formatting", "currency", "nativescript-angular"
     ],
     "author": {
-        "name":" NativeScript Team"
+        "name": "Alex"
     }
 }
